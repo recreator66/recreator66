@@ -4,6 +4,6 @@ Version Control: `Git` `GitLab`
    
 Backend Development: `Python`   
    
-IaC: `PowerShell DSC` `Ansible`   
+IaC: `PowerShell DSC` `Ansible` `Terraform`  
    
-Interests: `Cybersecurity` `DevOps`
+Interests: `Cybersecurity` `DevOps` `DL`
