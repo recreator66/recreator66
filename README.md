@@ -17,9 +17,3 @@ I'm passionate about **Cybersecurity**, **DevOps**, and **Automation**. My journ
 - **Cybersecurity**: Securing infrastructure, application security, and vulnerability management.
   
 ---
-
-### 🪄 Disclaimer
-
-This profile has been written by ChatGPT 
-
-![image](https://github.com/user-attachments/assets/7dd56e71-0930-4c8a-b100-a5c28ed99afc)
