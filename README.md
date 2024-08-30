@@ -1,8 +1,6 @@
-# 👋 Hi there! Welcome to my GitHub profile!
+# 👋 Hi there!
 
-I'm passionate about **Cybersecurity**, **DevOps**, and **Automation**. My journey in tech revolves around building efficient and scalable solutions, ensuring secure environments, and constantly automating processes.
-
-## 🛠️ Technologies & Tools I Work With:
+## 🛠️ Technologies & Tools:
 
 - **Programming Languages**: Python, Go
 - **Infrastructure as Code**: Terraform, Ansible, PowerShell DSC
